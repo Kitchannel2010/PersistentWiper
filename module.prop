@@ -1,0 +1,6 @@
+id=persistentwiper
+name=Persistent Wiper
+version=1.0
+versionCode=1
+author=Kitchannel2010
+description=Wipe persistent partition on boot
